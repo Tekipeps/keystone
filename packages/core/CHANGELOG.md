@@ -1,5 +1,11 @@
 # @keystone-6/core
 
+## 5.3.2
+
+### Patch Changes
+
+- [#8626](https://github.com/keystonejs/keystone/pull/8626) [`a30c7a163`](https://github.com/keystonejs/keystone/commit/a30c7a1630a670eb814e015254c7ae608500b2d8) Thanks [@dcousens](https://github.com/dcousens)! - Removes `?from` redirect from `/signin` page to prevent open redirection.
+
 ## 5.3.1
 
 ### Patch Changes
